@@ -1,4 +1,5 @@
-# inheritance3
+# 3. Gün Java OOP Soyutlama
+# Inheritance 
 
 Kodlama.io sayfası göz önünde bulundurularak User, Instructor ve Student nesnelerini modellenmiştir. 
 
